@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lokman A.
+- 👋 Hi, I’m Lokman 
 - 🌱 I've spent six transformative years in finance & Banking in France, progressing from financial sales to insurance risk analyst. 
 - 💞️ In parallel, my passion for data science led me to a master's degree at an engineering school.
 
