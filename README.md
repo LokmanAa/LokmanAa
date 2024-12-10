@@ -1,7 +1,5 @@
-👋 Hi, I’m Lokman
+I’m Lokman
 
-I have 6 years of experience in insurance & banking in France, transitioning from financial sales to insurance risk analysis. Alongside, I pursued a master's degree in data science and completed 13 real-world projects that showcase my skills in machine learning, data visualization, and statistical analysis.
+Freelance Data Scientist specialized in Banking/Insurance industry.
 
-I'm now looking to bring my banking/insurance expertise and data science skills to a challenging role.
-
-Feel free to explore my projects and connect! 😊
+Fell free to connect with me!
