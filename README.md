@@ -1,5 +1,5 @@
-I’m Lokman
+I’m Lokman,
 
-Freelance Data Scientist specialized in Banking/Insurance industry.
+Data Scientist specialized in Banking industry.
 
-Fell free to connect with me!
+Feel free to connect with me!
